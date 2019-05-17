@@ -1,3 +1,3 @@
-rm -rf /boot/grub/themes/arch-silence
-cp -TR ./theme /boot/grub/themes/arch-silence
-grub-mkconfig -o /boot/grub/grub.cfg
+rm -rf /boot/grub2/themes/fedora-silence
+cp -TR ./theme /boot/grub2/themes/fedora-silence
+sudo grub2-mkconfig -o /boot/efi/EFI/fedora/grub.cfg

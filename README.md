@@ -1,9 +1,9 @@
 
-# Arch-Silence GRUB2 theme
+# Fedora-Silence GRUB2 theme
 
-My flat GRUB2 theme.
+My flat GRUB2 theme, forked from [here](https://github.com/fghibellini/arch-silence)
 
-<img src="./preview.png" width="400">
+
 
 ## Font
 
@@ -17,5 +17,6 @@ which makes it completely useless since there's practically no font that is read
 If not explicitly stated otherwise all the files in this project are distributed under the [GNU General Public License](./COPYING).
 
 ## Author
+Modifying author: Daniel Kartin
 
-Filippo Ghibellini
+Original author: Filippo Ghibellini
